@@ -15,6 +15,7 @@ An interactive Bash script-based command-line quiz game focused on Linux command
 
 1. Clone the repository or download the script:
    ```bash
-   git clone <your-repository-url>
-   cd <repository-folder>
+   git clone https://github.com/sparrowforce143/Quizgame.git
+   cd quizgame
+   bash quiz.sh
    
